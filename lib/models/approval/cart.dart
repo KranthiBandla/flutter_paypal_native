@@ -1,7 +1,7 @@
-import 'package:flutter_paypal_native/models/approval/items.dart';
-import 'package:flutter_paypal_native/models/approval/shipping_method.dart';
-import 'package:flutter_paypal_native/models/approval/shipping_address.dart';
-import 'package:flutter_paypal_native/models/approval/unit_price.dart';
+import 'items.dart';
+import 'shipping_method.dart';
+import 'shipping_address.dart';
+import 'unit_price.dart';
 
 class Cart {
   String? cartId;

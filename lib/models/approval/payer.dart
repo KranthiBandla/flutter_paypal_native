@@ -1,7 +1,7 @@
-import 'package:flutter_paypal_native/models/approval/addresses.dart';
-import 'package:flutter_paypal_native/models/approval/email.dart';
-import 'package:flutter_paypal_native/models/approval/name.dart';
-import 'package:flutter_paypal_native/models/approval/phones.dart';
+import 'addresses.dart';
+import 'email.dart';
+import 'name.dart';
+import 'phones.dart';
 
 class Payer {
   String? userId;

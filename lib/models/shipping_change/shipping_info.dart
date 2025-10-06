@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:flutter_paypal_native/models/map_helper.dart';
-import 'package:flutter_paypal_native/models/shipping_change/shipping_change_address.dart';
-import 'package:flutter_paypal_native/models/shipping_change/shipping_option.dart';
+import '../map_helper.dart';
+import 'shipping_change_address.dart';
+import 'shipping_option.dart';
 
 enum ShippingChangeType { addressChange, optionChange }
 

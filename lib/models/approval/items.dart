@@ -1,10 +1,10 @@
-import 'package:flutter_paypal_native/models/approval/unit_price.dart';
+import 'unit_price.dart';
 
 class Items {
   String? description;
   String? name;
-  UnitPrice? unitPrice;
   int? quantity;
+  UnitPrice? unitPrice;
   UnitPrice? total;
   String? details;
 

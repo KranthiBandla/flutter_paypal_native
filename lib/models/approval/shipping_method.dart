@@ -1,4 +1,4 @@
-import 'package:flutter_paypal_native/models/approval/unit_price.dart';
+import 'unit_price.dart';
 
 enum ShippingMethodType { shipping, pickup, shippingAndPickup, none }
 

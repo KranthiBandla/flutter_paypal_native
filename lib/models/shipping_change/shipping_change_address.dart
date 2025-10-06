@@ -1,4 +1,4 @@
-import 'package:flutter_paypal_native/models/map_helper.dart';
+import '../map_helper.dart';
 
 class ShippingChangeAddress extends MapHelper {
   String adminArea1 = "";

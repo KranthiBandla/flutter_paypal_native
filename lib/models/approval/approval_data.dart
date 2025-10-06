@@ -1,5 +1,5 @@
-import 'package:flutter_paypal_native/models/approval/cart.dart';
-import 'package:flutter_paypal_native/models/approval/payer.dart';
+import 'cart.dart';
+import 'payer.dart';
 
 class FPayPalApprovalData {
   String? payerId;

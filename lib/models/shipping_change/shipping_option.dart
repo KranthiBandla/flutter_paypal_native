@@ -1,4 +1,4 @@
-import 'package:flutter_paypal_native/models/shipping_change/unit_amount.dart';
+import 'unit_amount.dart';
 
 enum ShippingOptionType { shipping, pickup, unknown }
 

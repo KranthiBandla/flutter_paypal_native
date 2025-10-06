@@ -2,9 +2,9 @@ import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_paypal_native/models/approval/approval_data.dart';
-import 'package:flutter_paypal_native/models/custom/error_info.dart';
-import 'package:flutter_paypal_native/models/shipping_change/shipping_info.dart';
+import 'models/approval/approval_data.dart';
+import 'models/custom/error_info.dart';
+import 'models/shipping_change/shipping_info.dart';
 import 'flutter_paypal_native_platform_interface.dart';
 import 'models/custom/currency_code.dart';
 

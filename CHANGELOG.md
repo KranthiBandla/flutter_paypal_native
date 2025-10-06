@@ -1,3 +1,8 @@
+## 2.1.1
+* Migrated all internal imports to relative paths for pub.dev compliance
+* Updated pubspec.yaml and example/pubspec.yaml for correct dependency references
+* Fixed test imports and dev_dependencies
+* Minor code and lint fixes
 ## 2.1.0
 * updated android package to 1.2.0
 * note: android package naming convention may have changed
