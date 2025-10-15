@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_paypal_native.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_paypal_native'
+  s.name             = 'flutter_paypal_native_pro'
   s.version          = '2.0.0'
   s.summary          = 'Flutter SDK Lib for Paypal.'
   s.description      = <<-DESC
